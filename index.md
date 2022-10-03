@@ -8,7 +8,7 @@
 ``` python
 print(hello)
 ```
-- [ ] Testing 1
+- [x] Testing 1
 - [ ] Testing 2
 - [ ] Testing 3
 
